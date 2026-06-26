@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachna Garg</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" alt="Girl Coding"/>
+</p>
 
 <h3 align="center">🎓 B.Tech CSE Student | MERN Stack Developer | DSA Learner</h3>
 
