@@ -2,10 +2,6 @@
 
 <h3 align="center">🎓 B.Tech CSE Student | MERN Stack Developer | DSA Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Software+Developer;MERN+Stack+Learner;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
