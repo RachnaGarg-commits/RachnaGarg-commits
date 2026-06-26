@@ -43,7 +43,7 @@
 
 ## 🚀 Featured Projects
 
-### 💼 Job Portal (MERN Stack)
+### 💼 Job Sphere (MERN Stack Job Portal )
 
 A full-stack recruitment platform connecting job seekers and recruiters.
 
